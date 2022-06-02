@@ -1,4 +1,4 @@
-# Rate Me App
+# Poke-Pictionary
 
 ## Project Description
 
